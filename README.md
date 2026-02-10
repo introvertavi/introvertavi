@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @introvertavi
 - 👀 I’m interested in learing new coding languages.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on anything yet.
 - 📫 How to reach me vishavinash78@gmail.com
 - ⚡ Fun fact: There are over 700 pragramming languages.
