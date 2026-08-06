@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @introvertavi<br>👀 I’m interested in learing new coding languages.<br>🌱 I’m currently learning React.<br>💞️ I’m looking to collaborate on anything yet.<br>📫 How to reach me vishavinash78@gmail.com<br>⚡ Fun fact: There are over 700 pragramming languages.
+👋 Hi, I am @introvertavi<br>👀 I am interested in learing new coding languages.<br>🌱 I am currently learning React.<br>💞️ I am looking to collaborate on anything yet.<br>📫 How to reach me vishavinash78@gmail.com<br>⚡ Fun fact: There are over 700 pragramming languages.
 
 
 ## 🌐 Socials:
