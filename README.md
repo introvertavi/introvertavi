@@ -12,9 +12,11 @@ with a focus on **AI Engineering, Backend Development & Data**.
 <a href="https://introvertavi.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/avinash-vishwakarma-586217363/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:vishavinash78@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-BB001B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -25,7 +27,6 @@ with a focus on **AI Engineering, Backend Development & Data**.
 📍 Mumbai, India &nbsp; • &nbsp; 🎓 B.E. Data Engineering &nbsp; • &nbsp; 🎓 Class of 2028
 
 </div>
-
 ---
 
 ## 👨‍💻 About
@@ -199,15 +200,23 @@ while maintaining clean and maintainable software.
 
 ---
 
+---
+
 ## 🤝 Connect
 
 <div align="center">
 
-<a href="https://introvertavi.github.io/portfolio/">🌐 Portfolio</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/avinash-vishwakarma-586217363/">💼 LinkedIn</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:vishavinash78@gmail.com">✉️ Email</a>
+<a href="https://introvertavi.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/avinash-vishwakarma-586217363/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vishavinash78@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-BB001B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br/>
 <br/>
