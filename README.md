@@ -1,143 +1,211 @@
+<div align="center">
+
 # Avinash Vishwakarma
 
 ### AI & Data Engineering Undergraduate · AI Engineer · Backend Developer
 
-I build intelligent applications, backend systems, and data-driven software, 
-with a focus on **RAG-based AI systems, Java backend development, and data engineering**.
+Building intelligent applications, backend systems,  
+and data-driven software with a focus on **AI Engineering, Backend Development & Data**.
 
-Currently exploring the intersection of **AI Engineering, Backend Systems, and Data** — 
-with an emphasis on building practical, maintainable software.
+<br/>
 
-<p align="left">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vishavinash78@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vishavinash78@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-BB001B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<br/>
+<br/>
 
-## About
+📍 Mumbai, India &nbsp; • &nbsp; 🎓 B.E. Data Engineering &nbsp; • &nbsp; 🎓 Class of 2028
 
-- 🎓 **B.E. Data Engineering** — Universal College of Engineering
-- 🤖 Focused on **AI Engineering and RAG systems**
-- ⚙️ Building backend applications with **Java, Servlets, JDBC and REST APIs**
-- 🗄️ Working with **PostgreSQL and MySQL**
-- 📊 Exploring **Data Engineering, Data Analysis and Machine Learning**
-- 📍 Mumbai, India
+</div>
 
 ---
 
-## Technical Focus
+## 👨‍💻 About Me
 
-**Languages**  
-Python · Java · SQL · JavaScript
+I'm an **AI & Data Engineering undergraduate** interested in building practical
+software at the intersection of **Artificial Intelligence, Backend Engineering,
+and Data**.
 
-**AI Engineering**  
-LangGraph · RAG · FAISS · Sentence Transformers · Ollama · Prompt Engineering · Semantic Search
+My current work focuses on:
 
-**Backend Development**  
-Java Servlets · JSP · JDBC · REST APIs · Session Management
+- 🤖 **AI Engineering** — RAG systems, semantic search, AI workflows
+- ⚙️ **Backend Engineering** — Java, Servlets, JDBC, REST APIs
+- 🗄️ **Data & Databases** — SQL, PostgreSQL, MySQL, data processing
+- 📊 **Data Engineering** — Pandas, NumPy, data cleaning and analysis
 
-**Databases**  
-PostgreSQL · MySQL
-
-**Data & Development**  
-Pandas · NumPy · Data Cleaning · EDA · Git · GitHub · Maven · Apache Tomcat · pytest
+I enjoy taking an idea from **architecture → implementation → testing** and
+turning it into a working system.
 
 ---
 
-## Featured Projects
+## 🧩 What I Work With
 
-### 🤖 OrbitDesk — AI Support Agent
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Python · LangGraph · RAG · FAISS · Ollama · Sentence Transformers**
+### 🤖 AI Engineering
 
-A Retrieval-Augmented Generation support assistant designed to ground responses in organizational documentation.
+- Retrieval-Augmented Generation
+- LangGraph
+- FAISS
+- Sentence Transformers
+- Ollama
+- Prompt Engineering
+- Semantic Search
 
-- Designed a modular multi-stage AI workflow using LangGraph
-- Implemented semantic document retrieval with FAISS and Sentence Transformers
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+- Java
+- Java Servlets
+- JSP
+- JDBC
+- REST APIs
+- Session Management
+- Apache Tomcat
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Data & Databases
+
+- PostgreSQL
+- MySQL
+- SQL
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Tools
+
+- Git & GitHub
+- Maven
+- VS Code
+- Jupyter Notebook
+- pytest
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Selected Projects
+
+### 🤖 OrbitDesk
+**AI Support Agent**
+
+> Retrieval-Augmented Generation system designed to ground responses
+> in organizational documentation.
+
+**Built with:** `Python` `LangGraph` `FAISS` `Ollama` `Sentence Transformers`
+
+**Highlights**
+
+- Designed a multi-stage AI workflow using LangGraph
+- Implemented semantic document retrieval using FAISS
 - Integrated local LLM inference through Ollama
 - Added human escalation for low-confidence responses
-- Maintained a modular codebase with pytest-based testing
+- Maintained a modular architecture with pytest-based testing
 
-**[View Project →](YOUR_ORBITDESK_URL)**
+**[ View Repository → ](YOUR_ORBITDESK_URL)**
 
 ---
 
-### 🏥 Garbh Sakhi — Healthcare Management Platform
+### 🏥 Garbh Sakhi
+**Healthcare Management Platform**
 
-**Java · JSP · Servlets · PostgreSQL · JDBC · Bootstrap**
+> Full-stack healthcare management application built around structured
+> data management and user workflows.
 
-A full-stack healthcare management platform focused on structured data management and user workflows.
+**Built with:** `Java` `JSP` `Servlets` `PostgreSQL` `JDBC` `Bootstrap`
+
+**Highlights**
 
 - Designed an 8-table normalized PostgreSQL schema
-- Implemented session-based authentication using Java Servlets and JDBC
+- Implemented session-based authentication
 - Built appointment scheduling and medicine reminder modules
-- Developed a responsive Bootstrap-based interface
+- Developed a responsive Bootstrap interface
 - Structured the application for future deployment
 
-**[View Project →](YOUR_GARBH_SAKHI_URL)**
+**[ View Repository → ](YOUR_GARBH_SAKHI_URL)**
 
 ---
 
 ### 🔎 Lost & Found Portal
+**Campus Web Application**
 
-**HTML · CSS · Bootstrap · JavaScript · Local Storage**
+> Responsive client-side application for managing campus lost-and-found listings.
 
-A responsive campus lost-and-found application designed for creating, browsing and filtering item listings.
+**Built with:** `HTML` `CSS` `Bootstrap` `JavaScript` `Local Storage`
 
-- Implemented browser-based persistence using Local Storage
-- Built reusable UI components
+**Highlights**
+
+- Implemented persistent browser-based storage
 - Added category filtering and search-oriented navigation
+- Built reusable UI components
 - Designed a responsive interface for campus use
 
-**[View Project →](YOUR_LOST_AND_FOUND_URL)**
+**[ View Repository → ](YOUR_LOST_AND_FOUND_URL)**
 
 ---
 
-## Education
+## 🎓 Education
 
 **Universal College of Engineering**  
-B.E. in Data Engineering · Expected 2028
+**B.E. — Data Engineering** · Expected 2028
 
 ---
 
-## Certifications & Job Simulations
+## 📜 Certifications & Simulations
 
-- **365 Careers** — Data Science Training
-- **Quantium** — Data Analytics Job Simulation
-- **Deloitte Australia** — Data Analytics Job Simulation
-- **J.P. Morgan** — Software Engineering Job Simulation
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/>
-</p>
+| Program | Organization |
+|---|---|
+| Data Science Training | 365 Careers |
+| Data Analytics Job Simulation | Quantium |
+| Data Analytics Job Simulation | Deloitte Australia |
+| Software Engineering Job Simulation | J.P. Morgan |
 
 ---
 
-## Connect
+## 🤝 Let's Connect
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  ·
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
-  ·
-  <a href="mailto:vishavinash78@gmail.com">Email</a>
-</p>
+<div align="center">
 
----
+I'm always open to connecting with people working in **AI, Backend Engineering,
+Data Engineering, and Software Development**.
 
-<p align="center">
-  <i>Building practical systems at the intersection of AI, backend engineering, and data.</i>
-</p>
+<br/>
+
+<a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:vishavinash78@gmail.com">✉️ Email</a>
+
+<br/>
+<br/>
+
+**Building practical systems at the intersection of AI, backend engineering & data.**
+
+</div>
