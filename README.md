@@ -9,7 +9,7 @@ with a focus on **AI Engineering, Backend Development & Data**.
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="[YOUR_PORTFOLIO_URL](https://introvertavi.github.io/portfolio/)">
   <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="YOUR_LINKEDIN_URL">
