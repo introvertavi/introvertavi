@@ -12,7 +12,7 @@ with a focus on **AI Engineering, Backend Development & Data**.
 <a href="https://introvertavi.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/avinash-vishwakarma-586217363/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:vishavinash78@gmail.com">
@@ -203,9 +203,9 @@ while maintaining clean and maintainable software.
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a>
+<a href="https://introvertavi.github.io/portfolio/">🌐 Portfolio</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a>
+<a href="https://www.linkedin.com/in/avinash-vishwakarma-586217363/">💼 LinkedIn</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="mailto:vishavinash78@gmail.com">✉️ Email</a>
 
