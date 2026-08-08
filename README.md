@@ -187,13 +187,13 @@ while maintaining clean and maintainable software.
 
 ---
 
-## 📈 GitHub
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=introvertavi&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=introvertavi&show_icons=true&theme=transparent&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=introvertavi&layout=compact&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=introvertavi&layout=compact&theme=transparent&hide_border=true" height="170"/>
 
 </div>
 
