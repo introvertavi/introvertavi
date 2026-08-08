@@ -185,15 +185,15 @@ while maintaining clean and maintainable software.
 | Data Analytics Job Simulation | Deloitte Australia |
 | Software Engineering Job Simulation | J.P. Morgan |
 
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=introvertavi&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+**AI Engineering · Backend Development · Data Engineering**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=introvertavi&layout=compact&theme=transparent&hide_border=true" height="170"/>
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-introvertavi-181717?style=flat-square&logo=github)](https://github.com/introvertavi)
 
 </div>
 
