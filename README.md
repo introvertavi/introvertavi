@@ -4,8 +4,8 @@
 
 ### AI & Data Engineering Undergraduate · AI Engineer · Backend Developer
 
-Building intelligent applications, backend systems,  
-and data-driven software with a focus on **AI Engineering, Backend Development & Data**.
+Building intelligent applications, backend systems, and data-driven software
+with a focus on **AI Engineering, Backend Development & Data**.
 
 <br/>
 
@@ -28,25 +28,24 @@ and data-driven software with a focus on **AI Engineering, Backend Development &
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
-I'm an **AI & Data Engineering undergraduate** interested in building practical
-software at the intersection of **Artificial Intelligence, Backend Engineering,
-and Data**.
+AI & Data Engineering undergraduate focused on building practical software
+at the intersection of **Artificial Intelligence, Backend Engineering, and Data**.
 
-My current work focuses on:
+Current areas of focus:
 
 - 🤖 **AI Engineering** — RAG systems, semantic search, AI workflows
 - ⚙️ **Backend Engineering** — Java, Servlets, JDBC, REST APIs
 - 🗄️ **Data & Databases** — SQL, PostgreSQL, MySQL, data processing
 - 📊 **Data Engineering** — Pandas, NumPy, data cleaning and analysis
 
-I enjoy taking an idea from **architecture → implementation → testing** and
-turning it into a working system.
+Emphasis on taking projects from **architecture → implementation → testing**
+while maintaining clean and maintainable software.
 
 ---
 
-## 🧩 What I Work With
+## 🧩 Technical Focus
 
 <table>
 <tr>
@@ -135,7 +134,7 @@ turning it into a working system.
 ### 🏥 Garbh Sakhi
 **Healthcare Management Platform**
 
-> Full-stack healthcare management application built around structured
+> Full-stack healthcare management application focused on structured
 > data management and user workflows.
 
 **Built with:** `Java` `JSP` `Servlets` `PostgreSQL` `JDBC` `Bootstrap`
@@ -188,14 +187,21 @@ turning it into a working system.
 
 ---
 
-## 🤝 Let's Connect
+## 📈 GitHub
 
 <div align="center">
 
-I'm always open to connecting with people working in **AI, Backend Engineering,
-Data Engineering, and Software Development**.
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
 
 <a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -206,6 +212,6 @@ Data Engineering, and Software Development**.
 <br/>
 <br/>
 
-**Building practical systems at the intersection of AI, backend engineering & data.**
+**AI Engineering · Backend Development · Data Engineering**
 
 </div>
