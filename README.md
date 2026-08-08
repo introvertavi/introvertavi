@@ -27,7 +27,6 @@ with a focus on **AI Engineering, Backend Development & Data**.
 📍 Mumbai, India &nbsp; • &nbsp; 🎓 B.E. Data Engineering &nbsp; • &nbsp; 🎓 Class of 2028
 
 </div>
----
 
 ## 👨‍💻 About
 
@@ -197,8 +196,6 @@ while maintaining clean and maintainable software.
 [![GitHub](https://img.shields.io/badge/GitHub-introvertavi-181717?style=flat-square&logo=github)](https://github.com/introvertavi)
 
 </div>
-
----
 
 ---
 
