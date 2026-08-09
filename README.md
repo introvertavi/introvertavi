@@ -127,7 +127,7 @@ while maintaining clean and maintainable software.
 - Added human escalation for low-confidence responses
 - Maintained a modular architecture with pytest-based testing
 
-**[ View Repository → ](YOUR_ORBITDESK_URL)**
+**[ View Repository → ](https://github.com/introvertavi/orbitdesk-ai-agent)**
 
 ---
 
@@ -147,7 +147,7 @@ while maintaining clean and maintainable software.
 - Developed a responsive Bootstrap interface
 - Structured the application for future deployment
 
-**[ View Repository → ](YOUR_GARBH_SAKHI_URL)**
+**[ View Repository → ](https://github.com/introvertavi/Garbh-Sakhi)**
 
 ---
 
@@ -165,7 +165,7 @@ while maintaining clean and maintainable software.
 - Built reusable UI components
 - Designed a responsive interface for campus use
 
-**[ View Repository → ](YOUR_LOST_AND_FOUND_URL)**
+**[ View Repository → ](https://github.com/introvertavi/Lost-and-Found)**
 
 ---
 
